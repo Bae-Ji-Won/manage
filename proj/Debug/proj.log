@@ -1,0 +1,50 @@
+﻿  calen.cpp
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\calen.cpp(231,9): warning C4474: 'scanf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\calen.cpp(231,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 5개가 제공되었습니다.
+  jaeg.cpp
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(352,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(679,71): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(679,71): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(680,71): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(680,71): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(681,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(681,73): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(681,73): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(682,71): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(682,71): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(728,71): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(728,71): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(729,71): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(729,71): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(730,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(730,73): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(730,73): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(731,71): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(731,71): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(776,71): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(776,71): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(777,71): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(777,71): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(778,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(778,73): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(778,73): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(779,71): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(779,71): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(824,71): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(824,71): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(825,71): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(825,71): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(826,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(826,73): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(826,73): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(827,71): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\jaeg.cpp(827,71): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+  loca.cpp
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\loca.cpp(128,10): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  mu.cpp
+  proj.cpp
+  코드를 생성하고 있습니다...
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\proj.cpp(115): warning C4715: 'keycontrol': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\loca.cpp(236): warning C4715: 'deleted': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\proj\loca.cpp(308): warning C4715: 'find': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  proj.vcxproj -> C:\Users\qowhz\Desktop\02조_배지원_0614 (1)\Debug\proj.exe
